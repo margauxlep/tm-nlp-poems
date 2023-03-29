@@ -1,4 +1,4 @@
-Poèmes humains et poèmes générés par ChatGPT : une analyse comparative
+# Poèmes humains et poèmes générés par ChatGPT : une analyse comparative
 
 ## Problématique
 Aujourd'hui, les LLM (large language models) sont capable de générer des textes d'une qualité impressionnante. En effet, les performances de ces modèles, dont le grand public a pris connaissance avec le célèbre ChatGPT, sont capables - selon certaines sources [ref] de passer le test de Turing; donc de produire un texte indifférentiable de celui d'un humain.
