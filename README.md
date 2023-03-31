@@ -30,9 +30,7 @@ Nous avons réalisé manuellement une base de donnée de 100 poèmes, dont 50 on
 - Tristan Tzara
 - Victor Hugo
 
-Pour ce qui est des 50 poèmes "artificiels", nous les avons généré avec ChatGPT, interface basée sur le modèle GPT-3 d'Open AI. Pour que notre analyse comparative soit pertinente, nous avons, pour chaque poème humain, demandé à ChatGPT d'écrire un poème "dans le style de" l'auteur, et de la même forme. (Notons que la forme n'a pas toujours été respectée par ChatGPT).
+Pour ce qui est des 50 poèmes "artificiels", nous les avons généré avec ChatGPT, interface basée sur le modèle GPT-3 d'Open AI. Pour que notre analyse comparative soit pertinente, nous avons, pour chaque poème humain, demandé à ChatGPT d'écrire un poème "dans le style de" l'auteur, et de la même forme. (Notons que la forme n'a pas toujours été respectée par ChatGPT). Pour augmenter la variabilité du dataset, nous avons quelques fois précisé un thème.
 
-Exemple de prompt : "écris un sonnet dans le style de Guillaume Apollinaire"
-Pour augmenter la variabilité du dataset, nous avons quelques fois précisé un thème.
-
-Exemple de prompt : "écris un sonnet sur un meuble dans le style de Charles Baudelaire"
+- Exemple de prompt : "écris un sonnet dans le style de Guillaume Apollinaire"
+- Exemple de prompt : "écris un sonnet sur un meuble dans le style de Charles Baudelaire"
